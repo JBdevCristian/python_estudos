@@ -1,0 +1,10 @@
+07/11/2024 10:36:50 | Produto: Pão | Preço: R$5.50 | Quantidade: 10 | Validade: 12/12/2024 | Vendas: 3
+07/11/2024 10:37:43 | Produto: Cristian | Preço: R$15.00 | Quantidade: 20 | Validade: 30/06/2002 | Vendas: 10
+07/11/2024 10:38:28 | Produto: Pão | Preço: R$5.50 | Quantidade: 10 | Validade: 12/12/2024 | Vendas: 3
+07/11/2024 10:39:28 | Produto: Pão | Preço: R$5.50 | Quantidade: 10 | Validade: 12/12/2024 | Vendas: 3
+07/11/2024 10:41:09 | Produto: Pão | Preço: R$5.50 | Quantidade: 10 | Validade: 12/12/2024 | Vendas: 3
+07/11/2024 10:44:09 | Produto: Pão | Preço: R$5.50 | Quantidade: 10 | Validade: 12/12/2024 | Vendas: 3
+07/11/2024 10:44:42 | Produto: Pão | Preço: R$5.50 | Quantidade: 10 | Validade: 12/12/2024 | Vendas: 3
+07/11/2024 10:52:26 | Produto: Ju | Preço: R$10.50 | Quantidade: 5 | Validade: 30/03/2005 | Vendas: 0
+07/11/2024 10:55:07 | Produto: Gi | Preço: R$6.50 | Quantidade: 15 | Validade: 30/12/50 | Vendas: 0
+07/11/2024 10:57:44 | Produto: Gi | Preço: R$50.30 | Quantidade: 10 | Validade: 30/06/2002 | Vendas: 0
